@@ -1,10 +1,10 @@
 # Pizza Tower Web Launcher
 Pizza Tower Web Launcher for GX.GAMES
 
-Made as a workaround to the GX.GAMES size limit, it launches My Pizza Tower 1.1.0 port from the GX.GAMES Platform by re-directing players to my website that hosts it
+Made as a workaround to the GX.GAMES size limit, it launches Both my Pizza Tower Ports from the GX.GAMES Platform by re-directing players to my website that hosts it
 
 > [!IMPORTANT]
-> The current one is for My 1.1.0 port, but I will make a Cheesed Up Launcher too, so look out for that release
+> A have made different ones for PT 1.1.0 and PTCU
 
 Source Code will be available if anyone wants to modify it to fit their needs
 > [!NOTE]
